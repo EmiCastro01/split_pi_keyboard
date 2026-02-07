@@ -1,0 +1,19 @@
+# binaries 
+*.exe 
+*.dll 
+# build files
+/build/
+/dist/
+/Build/
+# logs 
+*.log 
+# OS generated files
+.DS_Store
+Thumbs.db
+# IDE files
+.vscode/
+.idea/
+*.sln 
+*.csproj 
+# Cache 
+*.cache
